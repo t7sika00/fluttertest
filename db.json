@@ -1,19 +1,15 @@
 {
   "products": [
     {
-      "name": banana,
+      "name": "banana",
       "nutritionvalues": "energia, laskennallinen	366 kJ (88 kcal) rasva	0.4 g hiilihydraatti imeytyvä	18.3 g proteiini	1.2 g alkoholi	0 g"
     },
     {
-      "name": egg,
+      "name": "egg",
       "nutritionvalues": "energia, laskennallinen	561 kJ (134 kcal)	rasva	9.2 g	hiilihydraatti imeytyvä	0.3 g	proteiini	12.6 g	alkoholi	0 g"
     },
     {
-      "name": egg,
-      "nutritionvalues": "energia, laskennallinen	561 kJ (134 kcal)	rasva	9.2 g	hiilihydraatti imeytyvä	0.3 g	proteiini	12.6 g	alkoholi	0 g"
-    },
-    {
-      "name": apple,
+      "name": "apple",
       "nutritionvalues": "energia, laskennallinen	163 kJ (39 kcal) rasva	< 0.1 g	hiilihydraatti imeytyvä	8.2 g	proteiini	0.2 g	alkoholi	0 g"
     }
   ],
